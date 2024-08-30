@@ -1,0 +1,17 @@
+.books{
+    width: 300px;
+    text-align: center;
+}
+.books-image{
+    height: 300px;
+    margin: auto;
+}
+.books-title{
+    height: 80px;
+}
+.api-description{
+    max-width: 1000px;
+    margin: auto;
+    font-size: larger;
+    font-weight: 500;
+}
